@@ -1,6 +1,6 @@
 <h1>Bonjour, je m'appelle Tiago Barros</h1>
 
-<h2>- Je suis étudiant en développement web à Maisonneuve</h2>
+<h2>- Je suis étudiant en développement Full-Stack à Maisonneuve</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolp22)](https://github.com/anuraghazra/github-readme-stats)
 <div>
