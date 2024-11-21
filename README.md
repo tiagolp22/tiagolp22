@@ -2,7 +2,7 @@
 
 ## 🎓 Développeur Full-Stack diplômé du Collège de Maisonneuve
 
-Passionné par le développement Full-Stack, je me spécialise en **JavaScript, Node.js, et React**. J’aime relever des défis complexes et collaborer pour concevoir des solutions performantes et innovantes.  
+Passionné par le développement Full-Stack, je me spécialise en **JavaScript,PHP, Laravel, Node.js, et React**. J’aime relever des défis complexes et collaborer pour concevoir des solutions performantes et innovantes.  
 🌟 En formation continue en **Java** et **intelligence artificielle**.  
 🤝 Toujours ouvert à de nouvelles opportunités ou collaborations.
 
