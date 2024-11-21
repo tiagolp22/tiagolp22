@@ -2,29 +2,56 @@
 
 ## 🎓 Développeur Full-Stack diplômé du Collège de Maisonneuve
 
-Je suis spécialisé en JavaScript, Node.js, React, et je me forme actuellement en Java.
+Passionné par le développement Full-Stack, je me spécialise en **JavaScript, Node.js, et React**. J’aime relever des défis complexes et collaborer pour concevoir des solutions performantes et innovantes.  
+🌟 En formation continue en **Java** et **intelligence artificielle**.  
+🤝 Toujours ouvert à de nouvelles opportunités ou collaborations.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📚 Projets principaux
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolp22&show_icons=true&theme=dark)](https://github.com/tiagolp22)
+### [SolutionNetPlus](https://www.solutionnetplus.ca/)
+Plateforme de gestion de rendez-vous avec calendrier interactif, automatisation des e-mails et module d'infolettres.  
+**Technologies utilisées** : React, Node.js, TypeScript, MongoDB.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolp22&layout=compact&theme=dark)](https://github.com/tiagolp22)
+### [Artur.art](https://artur.art/)
+Système de matchmaking artistique reliant utilisateurs et artistes via une plateforme collaborative.  
+**Technologies utilisées** : Laravel, Wordpress, CRM Integration, APIs RESTful.  
 
 ---
 
 ## 🛠️ Compétences Techniques
 
+### Langages de programmation
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+
+### Front-End
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![API RESTful](https://img.shields.io/badge/-API_RESTful-85C1E9?logo=api&logoColor=white&style=flat)
+
+### Bases de Données
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+
+### Outils et méthodologies
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![CI/CD](https://img.shields.io/badge/-CI/CD-064273?logo=jenkins&logoColor=white&style=flat)
+![Agile](https://img.shields.io/badge/-Agile-66CC99?logo=agile&logoColor=white&style=flat)
+
 
 ---
 
@@ -38,87 +65,40 @@ Développeur Full-Stack avec une passion pour la création de solutions web inno
 
 ---
 
-## 📚 Projets
+## 📫 Me contacter
 
-### [Win Technologie®](https://wintechnologie.app)
-
-**Développeur Full-Stack** | Août 2024 – Présent
-
-### [Artur.art](https://artur.art)
-
-**Développeur Back-end (Stage)** | Juillet 2024 – Septembre 2024
-
-### [Restart Fast Solutions](https://restartfastsolutions.com)
-
-**Gestionnaire de Projet** | Avril 2016 – Avril 2020
-
-**Gestionnaire Administratif** | Août 2013 – Mars 2016
-
-### [Xick Baby](https://www.xickbaby.com.br)
-
-**Analyste Administratif** | Septembre 2007 – Mars 2013
-
----
-
-## 🎓 Formation
-
-- **Conception et Programmation de Sites Web (Full-Stack)**  
-  Collège de Maisonneuve | 2024
-
-- **Gestion Logistique**  
-  Université Metropolitana, Brésil | 2013
-
-- **Baccalauréat en Administration des Affaires**  
-  Université Paulista, Brésil | 2010
-
----
-
-## 🧰 Outils & Méthodologies
-
-- **Outils** : Git, GitHub, Postman, Jira, Trello
-- **Méthodologies** : Agile/Scrum
-- **Autres** : Intelligence Artificielle, Business Intelligence, Intégration CRM
+<a href="mailto:tiagobarroscavalcanti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat"></a>
+<a href="https://www.linkedin.com/in/tiago-barros-cav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat"></a>
 
 ---
 
 ## 🌟 Centres d'Intérêt
 
-- Technologie et innovation
-- Intelligence Artificielle
-- Voyages et découverte de nouvelles cultures
-- Apprentissage continu
-
----
-
-## 📫 Me contacter
-
-<a href="mailto:tiagobarroscavalcanti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/tiago-barros-cavalcanti-62960aa4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>
+- Développement logiciel et innovation technologique
+- Intelligence artificielle et automatisation
+- Partage de connaissances et apprentissage continu
 
 ---
 
 ## 🎥 Aperçu des Projets
 
-### Projet 1: [solutionnetplus](https://www.solutionnetplus.ca/)
+### SolutionNetPlus
+- Développement frontend avec React pour des interfaces réactives.  
+- Backend avec Node.js et TypeScript pour des performances robustes.  
+- Intégration d'API RESTful et gestion MongoDB.
+
+### Artur.art
+- Automatisation des processus via API RESTful.  
+- Intégration CRM pour optimiser la gestion client.  
+- Création de tableaux de bord BI pour suivre les KPI.
 
 ---
 
 ## 📝 Témoignages
 
-### Dorian Verdier Grand
+> "Tiago a apporté une contribution précieuse à l’intégration de notre CRM, avec des solutions innovantes et une documentation rigoureuse."  
+> — **Dorian Verdier Grand**, Fondateur d’Artur.art
 
-**Fondateur et directeur de trois galeries d'art**  
-**Artur.art**  
-
-> "Tiago a fait un travail fort sur notre CRM GoHighLevel avec une documentation précise. Il est professionnel, sympathique et a beaucoup d'initiatives pour améliorer les processus."
-
----
-
-### Fernando de Almeida Pereira
-
-**Directeur technologique**
-
-> "Tiago et moi avons travaillé ensemble pendant 3 ans dans une entreprise appelée Restart Fast Solution. Il était responsable de la gestion de la chaîne d'approvisionnement et a géré nos opérations. Tiago est un professionnel autonome et a travaillé dur pour motiver les équipes à atteindre les objectifs du projet. Ses capacités de leadership nous ont aidés à construire et à développer des équipes axées sur la performance."
-
----
+> "Tiago est un professionnel autonome et motivé, ayant aidé notre équipe à atteindre ses objectifs grâce à ses compétences en gestion et leadership."  
+> — **Fernando de Almeida Pereira**, Directeur technologique
 
