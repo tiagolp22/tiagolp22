@@ -118,10 +118,10 @@ Je développe actuellement mes projets en automatisation de tests avec **Playwri
 - Contrôle de la qualité des données transmises  
 - Support à la validation des automatisations métier
 
-### [Patriot Saddles](https://www.patriotsaddles.com/)
-Site web développé par **GOAT Solutions Numériques** pour une entreprise du secteur équestre, avec un focus sur la présence numérique, la crédibilité de la marque et l’expérience utilisateur.  
-**Contribution QA / technique** : validation fonctionnelle des pages, vérification des formulaires, contrôle de la cohérence visuelle et support aux tests avant déploiement.  
-**Objectif du projet** : offrir une vitrine web claire, professionnelle et adaptée aux besoins d’une clientèle spécialisée.
+### Patriot Saddles(https://www.patriotsaddles.com/)
+- Site web développé par **GOAT Solutions Numériques** pour une entreprise du secteur équestre, avec un focus sur la présence numérique, la crédibilité de la marque et l’expérience utilisateur.  
+- **Contribution QA / technique** : validation fonctionnelle des pages, vérification des formulaires, contrôle de la cohérence visuelle et support aux tests avant déploiement.  
+- **Objectif du projet** : offrir une vitrine web claire, professionnelle et adaptée aux besoins d’une clientèle spécialisée.
 
 ---
 
