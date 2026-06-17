@@ -1,12 +1,10 @@
 # Tiago Barros Cavalcanti
 
-## Analyste QA | Tests fonctionnels et API REST | Playwright · TypeScript · Postman · Jira | Candidat ISTQB CTFL 4.0
+## Analyste QA | Tests fonctionnels et API REST | Playwright · TypeScript · Postman · Jira | ISTQB CTFL 4.0 certifié
 
-Analyste en assurance qualité basé à Montréal, avec une formation en développement Web Full-Stack et une expérience pratique en validation fonctionnelle d'applications Web, d'API REST et de flux de données.
+Analyste en assurance qualité basé à Montréal, avec une formation en développement Web Full-Stack et une expérience pratique en validation fonctionnelle d'applications Web, d'API REST et de flux de données. Je conçois et exécute des cas de test, réalise des tests exploratoires, de régression et d'acceptation, et documente les anomalies avec des étapes de reproduction, des résultats attendus et des preuves. Mon expérience en JavaScript, TypeScript, Node.js et React me permet de collaborer efficacement avec les développeurs et d'analyser les problèmes au-delà de l'interface.
 
-Je conçois et exécute des cas de test, réalise des tests exploratoires, de régression et d'acceptation, et documente les anomalies avec des étapes de reproduction, des résultats attendus et des preuves. Mon expérience en JavaScript, TypeScript, Node.js et React me permet de collaborer efficacement avec les développeurs et d'analyser les problèmes au-delà de l'interface.
-
-Je passe l'examen **ISTQB CTFL 4.0** la semaine prochaine.
+Certifié **ISTQB CTFL 4.0** (mai 2026).
 
 ## Projets QA en vedette
 
