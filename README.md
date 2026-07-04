@@ -88,7 +88,7 @@ Projet de tests d’API REST sur **Restful Booker**, avec validations techniques
 
 ### Consultant indépendant — QA et projets Web
 
-**GOAT Solutions · 2022 – présent**
+** · 2022 – présent**
 
 Mandats en développement Web et assurance qualité pour des sites e-commerce, vitrines et projets clients.
 
