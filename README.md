@@ -86,9 +86,7 @@ Projet de tests d’API REST sur **Restful Booker**, avec validations techniques
 
 ## Expérience récente
 
-### Consultant indépendant — QA et projets Web
-
-** · 2022 – présent**
+### Consultant indépendant — QA et projets Web ** · 2022 – présent**
 
 Mandats en développement Web et assurance qualité pour des sites e-commerce, vitrines et projets clients.
 
