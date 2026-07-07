@@ -1,183 +1,82 @@
-# Bonjour, je suis Tiago Barros Cavalcanti
+<h1 align="center">Tiago Barros Cavalcanti</h1>
+<h3 align="center">Analyste QA | Tests fonctionnels, API REST & Automatisation | Playwright · TypeScript · Agile/Scrum</h3>
 
-## Analyste QA | Tests fonctionnels | API REST | Playwright / TypeScript | ISTQB CTFL 4.0
+<p align="center">
+  <img src="https://img.shields.io/badge/ISTQB-CTFL%204.0-2E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
-Analyste en assurance qualité basé à Montréal, certifié **ISTQB CTFL 4.0**, avec une formation en développement Web Full-Stack et une expérience en validation fonctionnelle d’applications Web, tests d’API REST et automatisation de tests end-to-end.
-
-Je combine une approche QA structurée avec un profil technique : tests manuels, cas de test, rapports d’anomalies, validation de correctifs, Postman, Playwright, TypeScript, GitHub Actions et compréhension du développement Web moderne.
-
-Je suis actuellement ouvert à des opportunités comme **Analyste QA**, **Testeur logiciel** ou **Analyste de tests**, à Montréal ou ailleurs au Québec, en présentiel, hybride ou télétravail.
-
----
-
-## Ce que je fais en QA
-
-* Tests manuels, fonctionnels, exploratoires, smoke, régression et acceptation
-* Rédaction de cas de test, critères d’acceptation et documentation des anomalies
-* Reproduction de défauts avec étapes claires, résultats attendus et preuves
-* Tests d’API REST avec Postman, Newman, JSON et validations de réponses
-* Automatisation de tests E2E avec Playwright, TypeScript et Page Object Model
-* Intégration de suites de tests dans GitHub Actions
-* Collaboration avec les développeurs en contexte Agile / Scrum
-* Validation de parcours utilisateurs, formulaires, logique métier et correctifs
+<p align="center"><i>Je transforme les exigences métier en scénarios de test clairs, traçables et automatisables.</i></p>
 
 ---
 
-## Stack QA & technique
+### 👋 À propos
 
-![ISTQB CTFL](https://img.shields.io/badge/ISTQB-CTFL%204.0-blue)
-![Playwright](https://img.shields.io/badge/Playwright-E2E%20Testing-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Automation-blue)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black)
-![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue)
-![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-purple)
+Analyste en assurance qualité certifié **ISTQB® CTFL 4.0** (nº 26-CTFL 4-279209-17), basé à Montréal, avec une formation en développement Web Full-Stack et une expérience pratique en validation fonctionnelle d'applications Web, d'API REST et de flux de données.
 
-**Tests & validation**
-Tests manuels · tests fonctionnels · tests exploratoires · régression · smoke · acceptation · cas de test · traçabilité des exigences · rapports d’anomalies · triage · analyse de risque
-
-**Automatisation**
-Playwright · TypeScript · JavaScript · Page Object Model · data-driven testing · GitHub Actions · rapports HTML
-
-**API & données**
-Postman · Newman · REST · JSON · OpenAPI / Swagger · SQL · PostgreSQL · MySQL · MongoDB
-
-**Outils & méthodes**
-Git · GitHub · Jira · Xray · Confluence · TestRail · Docker · Jenkins · Agile · Scrum · Kanban · WCAG 2.1 / axe-core
+Je conçois et exécute des cas de test, réalise des tests exploratoires, de régression et d'acceptation, et documente les anomalies avec des étapes de reproduction, des résultats attendus et des preuves. Mon expérience en JavaScript, TypeScript, Node.js et React me permet de collaborer efficacement avec les développeurs et d'analyser les problèmes au-delà de l'interface.
 
 ---
 
-## Projets QA publics
+### 🧭 Pourquoi mon profil est différent
 
-### Tests E2E e-commerce — Playwright + TypeScript
+Mon parcours combine **gestion de projet TI**, **contrôle qualité industriel** et **développement Web** avant d'arriver à l'assurance qualité logicielle.
 
-Repository : [qa-playwright-ecommerce-tests](https://github.com/tiagolp22/qa-playwright-ecommerce-tests)
+J'ai piloté des projets TI pour des organisations gouvernementales au Brésil (indicateurs de performance, gestion des risques, reporting aux parties prenantes), puis travaillé en contrôle qualité industriel sur le **projet REM de Montréal** (inspection, traçabilité formelle des non-conformités, actions correctives).
 
-Projet de tests end-to-end sur **Sauce Demo**, structuré avec Playwright, TypeScript et Page Object Model.
-
-**Ce que le projet couvre :**
-
-* Authentification positive et négative
-* Gestion du panier
-* Parcours complet de commande
-* Scénarios smoke et régression
-* Données de test centralisées
-* Rapports HTML
-* Exécution automatisée avec GitHub Actions
+Cette double expérience — rigueur terrain + compréhension technique — est ce que j'apporte à une équipe QA, au-delà des outils.
 
 ---
 
-### Tests d’API REST — Playwright + TypeScript
+### 🧪 Projets QA en vedette
 
-Repository : [qa-api-tests](https://github.com/tiagolp22/qa-api-tests)
+**[🎭 Automatisation E2E e-commerce — Playwright + TypeScript](https://github.com/tiagolp22/qa-playwright-ecommerce-tests)**
+Suite de tests end-to-end structurée avec Page Object Model, données de test centralisées, scénarios smoke et regression, rapports HTML et exécution automatisée avec GitHub Actions.
+`Couverture actuelle : authentification positive/négative, gestion du panier, parcours complet de commande.`
 
-Projet de tests d’API REST sur **Restful Booker**, avec validations techniques et automatisation CI.
-
-**Ce que le projet couvre :**
-
-* Vérification de disponibilité du service
-* Authentification et gestion de token
-* Validations JSON
-* Cycle CRUD complet
-* Tests automatisés avec Playwright / TypeScript
-* Exécution dans GitHub Actions
+**[🔌 Tests d'API REST — Playwright + TypeScript](https://github.com/tiagolp22/qa-api-tests)**
+Suite de tests d'API couvrant disponibilité du service, authentification, filtres, validations JSON et cycle CRUD complet, avec exécution automatisée dans GitHub Actions.
 
 ---
 
-## Expérience récente
+### 💼 Expérience Web et validation qualité
 
-### Consultant indépendant — QA et projets Web 
-** 2022 – présent**
+**Mandats indépendants** *(nov. 2025 – présent)*
+- [Makeloo](https://makeloo.com/) — validation fonctionnelle, responsive et pré-déploiement
+- [Marcelo Martins Artiste](https://marcelomartinsartiste.com/) — vérification des parcours, formulaires, contenu et affichage multi-écrans
+- [Patriot Saddles](https://www.patriotsaddles.com/) — validation des pages, formulaires, cohérence visuelle et préparation à la mise en production
 
-Mandats en développement Web et assurance qualité pour des sites e-commerce, vitrines et projets clients.
-
-**Exemples de contributions :**
-
-* Conception et exécution de plans et cas de test
-* Validation de parcours utilisateurs critiques avant déploiement
-* Automatisation de suites E2E avec Playwright / TypeScript
-* Tests d’API REST avec Postman
-* Documentation d’anomalies avec étapes de reproduction et preuves
-* Revue QA de catalogue : utilisabilité, accessibilité, cohérence images / contenu / inventaire
-
-**Mandats :**
-
-* Makeloo
-* Marcelo Martins Artiste
-* Patriot Saddles
+**Expérience complémentaire**
+- 🏦 Validation fonctionnelle d'applications Web et d'intégrations API — Win Technologie *(août 2024 – sept. 2025)*
+- 🎨 Développement et validation d'endpoints REST — Artur.Art *(stage, 2024)*
+- 🏗️ Inspection, traçabilité des non-conformités et suivi des corrections sur des éléments préfabriqués — projet REM de Montréal *(2020 – 2023)*
+- 🌎 Gestion de projets TI gouvernementaux au Brésil — indicateurs de performance, gestion des risques, reporting *(2013 – 2020)*
 
 ---
 
-### Développeur Full-Stack — responsabilités QA
+### 🛠️ Compétences
 
-**Win Technologie · Brossard, QC · août 2024 – sept. 2025**
-
-Validation fonctionnelle d’une plateforme Web financière en contexte Scrum.
-
-**Responsabilités principales :**
-
-* Tests manuels sur formulaires, navigation et logique métier
-* Rédaction de cas de test
-* Documentation des anomalies dans Jira / Xray
-* Validation de correctifs avec les développeurs
-* Participation à la définition des critères d’acceptation
-* Contribution technique côté Node.js / TypeScript et MongoDB
+| Domaine | Stack |
+|---|---|
+| **Tests** | Fonctionnels · Exploratoires · Régression · Smoke · Acceptation · Cas de test · Analyse de risque |
+| **API & données** | Postman · REST · JSON · Swagger/OpenAPI · SQL · MongoDB · MySQL · PostgreSQL |
+| **Automatisation** | Playwright · TypeScript · JavaScript · Page Object Model · Data-driven testing |
+| **Outils** | Jira · Git · GitHub Actions · Confluence · Agile/Scrum/Kanban |
+| **Développement** | Node.js · Express · React · HTML · CSS |
 
 ---
 
-### Développeur Back-End — validation fonctionnelle
+### 🎯 Ce que je recherche
 
-**Artur.Art · Montréal, QC · juill. – sept. 2024**
-
-* Développement et validation d’endpoints REST avec Node.js
-* Tests d’intégration
-* Vérification des réponses API, des flux de données et des résultats attendus
+Une opportunité comme **Analyste QA**, **Software QA Analyst** ou **Testeur logiciel**, à Montréal, Laval, Brossard ou en mode hybride au Québec.
 
 ---
 
-### Contrôleur qualité — inspection et conformité
-
-**BPDL · Projet REM · 2020 – 2022**
-
-Expérience en contrôle qualité industriel transférable à l’assurance qualité logicielle : rigueur, traçabilité, documentation des non-conformités et suivi des actions correctives.
-
----
-
-## Formation & certifications
-
-* **ISTQB® Certified Tester — Foundation Level CTFL 4.0** — juin 2026
-  Certificat nº 26-CTFL 4-279209-17
-
-* **Scrum Foundation Professional Certificate**
-
-* **AEC — Programmation orientée objet, développement Web Full-Stack**
-  Collège de Maisonneuve, Montréal · 2023 – 2024
-
-* **Baccalauréat en administration des affaires**
-  Université Paulista · diplôme reconnu par le MIFI
-
-* **MBA — Gestion logistique et chaîne d’approvisionnement**
-  Faculdade Metropolitana
-
----
-
-## Langues
-
-* Français — courant, langue de travail
-* Portugais — langue maternelle
-* Anglais — technique
-* Espagnol — intermédiaire
-
----
-
-## Me contacter
-
-* LinkedIn : [linkedin.com/in/tiago-barros-cav](https://www.linkedin.com/in/tiago-barros-cav/)
-* GitHub : [github.com/tiagolp22](https://github.com/tiagolp22)
-* Courriel : [tiagobarroscavalcanti@gmail.com](mailto:tiagobarroscavalcanti@gmail.com)
-
----
-
-## Objectif actuel
-
-Contribuer à une équipe produit ou QA comme **Analyste QA**, **Testeur logiciel** ou **Analyste de tests**, avec un focus sur la qualité fonctionnelle, les API REST, l’automatisation progressive des tests et l’amélioration continue des processus QA.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-barros-cav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tiagobarroscavalcanti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
