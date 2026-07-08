@@ -34,6 +34,10 @@ Cette double expérience — rigueur terrain + compréhension technique — est 
 
 ### 🧪 Projets QA en vedette
 
+**[🧾 Portfolio de tests manuels — méthode ISTQB](https://github.com/tiagolp22/qa-manual-testing-portfolio)**
+Plan de test, 15 cas de test, 5 rapports d'anomalies et matrice de traçabilité sur une application démo publique.
+`Couverture actuelle : authentification, catalogue, panier, commande, défauts reproductibles et traçabilité exigences ↔ tests ↔ anomalies.`
+
 **[🎭 Automatisation E2E e-commerce — Playwright + TypeScript](https://github.com/tiagolp22/qa-playwright-ecommerce-tests)**
 Suite de tests end-to-end structurée avec Page Object Model, données de test centralisées, scénarios smoke et regression, rapports HTML et exécution automatisée avec GitHub Actions.
 `Couverture actuelle : authentification positive/négative, gestion du panier, parcours complet de commande.`
